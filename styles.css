@@ -1,0 +1,35 @@
+.columns {
+    margin: 2vw 2vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding: 12px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    flex-flow: column wrap;
+    width: 50%;
+    gap: 5px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.library {
+    display: flex;
+    padding: 12px;
+}
+
+
